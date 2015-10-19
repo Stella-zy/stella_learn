@@ -1,2 +1,5 @@
 # stella_learn
-c++ fpga
+about me
+ 
+work about 10 years
+noting haved
